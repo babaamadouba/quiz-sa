@@ -1,0 +1,71 @@
+{
+
+"users":[
+    
+    
+    {
+        
+        "nom":"amadou",
+        "prenom":"ba",
+        "login":"bababa",
+        "password":"12345",
+        "role":"admin",
+        "score":"20"
+    },
+
+
+    {
+        
+        "nom":"amadou",
+        "prenom":"ba",
+        "login":"bababa",
+        "password":"12345",
+        "role":"admin",
+        "score":0
+    
+    },
+
+    {
+        
+        "nom":"sidy",
+        "prenom":"faye",
+        "login":"sidyfaye",
+        "password":"123456",
+        "role":"utilistaeur",
+        "score":20
+    
+    },
+
+
+
+    {
+        
+        "nom":"laye",
+        "prenom":"diop",
+        "login":"layediop",
+        "password":"1234567",
+        "role":"utilisateur",
+        "score":"10"
+    
+    }
+
+
+]
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
